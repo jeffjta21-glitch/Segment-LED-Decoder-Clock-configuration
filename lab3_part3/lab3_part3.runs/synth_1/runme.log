@@ -1,0 +1,17 @@
+
+*** Running vivado
+    with args -log SevenSegments2digits.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source SevenSegments2digits.tcl
+
+
+
+****** Vivado v2020.1 (64-bit)
+  **** SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+  **** IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source SevenSegments2digits.tcl -notrace
+Command: synth_design -top SevenSegments2digits -part xc7z010clg400-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Device 21-403] Loading part xc7z010clg400-1
